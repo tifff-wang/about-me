@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tiff</h1>
-<h3 align="center">A passionate software developer beginner</h3>
+<h3 align="center">I'm on my journey of becoming a software developer! </h3>
 <br>
 
-- 🔭 I’m currently studying at **Dev Academy**
+- 🔭 I’m currently studying at  **Dev Academy**
 
-- 🌱 I’m currently learning **HTML, CSS ,Javascript**
+- 🌱 I’m currently learning  **HTML, CSS ,Javascript**
 
-- 📫 How to reach me **thiffanyjun@hotmail.com**
+- 📫 How to reach me  **thiffanyjun@hotmail.com**
 
 
 
