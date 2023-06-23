@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tiff</h1>
 <h3 align="center">I'm on my journey of becoming a software developer! </h3>
 <br>
+<img align="right" alt="Coding" width="200" src="./images/Lego%20portait.png">
+
 
 - 🔭 I’m currently studying at  **Dev Academy**
 
