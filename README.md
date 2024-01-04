@@ -6,8 +6,6 @@
 
 - 👩‍💻 I’m currently completed my course from  **Dev Academy**
 
-- 💻 I’m currently learning  **Microsoft Azure**
-
 - 📮 How to reach me  **thiffanyjun@hotmail.com**
 
 - 📔 My tech portfolio **https://tifff-wang.github.io/**
