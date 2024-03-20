@@ -22,10 +22,12 @@
 <br>
 <br>
 
+
 <div>
   <h2>Certifications</h2>
   <p>
-  <img src="https://github.com/JCCourt/JCCourt/assets/156492869/ffe0a660-66f2-46d5-8dd8-c951221f9111" alt="aws">
+  <img src="./images/AWS certificate image.png" alt="aws" width="200"
+                height="200">
   </p>
 </div>
 
