@@ -26,8 +26,8 @@
 <div>
   <h2>Certifications</h2>
   <p>
-  <img src="./images/AWS certificate image.png" alt="aws" width="200"
-                height="200">
+  <img src="./images/AWS certificate image.png" alt="aws" width="150"
+                height="150">
   </p>
 </div>
 
