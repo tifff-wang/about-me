@@ -6,8 +6,7 @@
 </div>
 
 <div>
-<p>👩‍💻 Currently working on an expense tracker app and an e-commerce toy website.<p/>  
-<p>⛅ Focusing on strengthening my skills in React, .NET core, SQL Database, and learning AWS cloud computing towards AWS Certified Developer Associate.<p/>
+<p>💻 I'm currently focusing on strengthening my skills in React, .NET core, SQL Database, and learning AWS cloud computing towards AWS Certified Developer Associate.<p/>
 <br>
 </div>
 
