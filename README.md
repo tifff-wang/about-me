@@ -13,7 +13,7 @@
 
 - 📮 How to reach me  **thiffanyjun@hotmail.com**
 
-- 📔 My tech portfolio **https://tifff-wang.github.io/**
+- 📔 My tech portfolio **https://tiffwang.co.nz**
 
 - 💻 Connect with me **https://www.linkedin.com/in/tifff-wang**
   
