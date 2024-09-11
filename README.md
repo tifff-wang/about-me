@@ -2,16 +2,15 @@
 <h1 align="center">Hi 👋, I'm Tiff</h1>
 <h3 align="center">I'm a full stack software developer! </h3>
 <br>
-<img align="right" alt="Coding" width="350" src="./images/Lego%20portait.png">
 </div>
 
 <div>
     <p>💻 I'm currently working on:</p>
     <ul>
-        <li>Integrating the backend of the Creativebunny e-commerce project into Firebase Serverless Functions.</li>
-        <li>Implementing PassKey in my Creativebunny e-commerce project.</li>
-        <li>Hands-on practice with AWS cloud services.</li>
-        <li>Exploring Docker and the use of AWS ECS further.</li>
+        <li>Integrating the backend of the Creativebunny e-commerce project into <b>Firebase Serverless Functions</b>.</li>
+        <li>Implementing <b>PassKey</b> in my Creativebunny e-commerce project.</li>
+        <li>Hands-on practice with <b>AWS cloud services</b>.</li>
+        <li>Exploring <b>Docker</b> and the use of <b>AWS ECS</b> further.</li>
     </ul>
 <br>
 </div>
