@@ -6,9 +6,16 @@
 </div>
 
 <div>
-<p>💻 I'm currently focusing on strengthening my skills in React, .NET core, SQL Database, and learning AWS cloud computing towards AWS Certified Developer Associate.<p/>
+    <p>💻 I'm currently working on:</p>
+    <ul>
+        <li>Integrating the backend of the Creativebunny e-commerce project into Firebase Serverless Functions.</li>
+        <li>Implementing PassKey in my Creativebunny e-commerce project.</li>
+        <li>Hands-on practice with AWS cloud services.</li>
+        <li>Exploring Docker and the use of AWS ECS further.</li>
+    </ul>
 <br>
 </div>
+
 
 
 - 📮 How to reach me  **thiffanyjun@hotmail.com**
