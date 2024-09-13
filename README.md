@@ -7,9 +7,8 @@
 <div>
     <p>💻 I'm currently working on:</p>
     <ul>
-        <li>Integrating the backend of the Creativebunny e-commerce project into <b>Firebase Serverless Functions</b>.</li>
         <li>Implementing <b>PassKey</b> in my Creativebunny e-commerce project.</li>
-        <li>Hands-on practice with <b>AWS cloud services</b>.</li>
+        <li>Migrating Creativebunny e-commerce project to host on <b>AWS</b>.</li>
         <li>Exploring <b>Docker</b> and the use of <b>AWS ECS</b> further.</li>
     </ul>
 <br>
